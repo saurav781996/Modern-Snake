@@ -19,4 +19,4 @@ A simple and modern implementation of the classic Snake game built with Flutter.
 | Splash Screen | Gameplay | Game Over |
 | :---: | :---: | :---: |
 | <img src="assets/Screenshots/ios splash.png" width="250"> | <img src="assets/Screenshots/ios gameplay 1.png" width="250"> | <img src="assets/Screenshots/ios game over.png" width="250"> |
-
+  
